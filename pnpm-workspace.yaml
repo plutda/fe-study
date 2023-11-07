@@ -1,0 +1,5 @@
+packages:
+  - "webpack-loader"
+  - "webpack-hmr"
+  - "webpack-plugin"
+  - "webpack-treeshaking"
