@@ -1,1 +1,1 @@
-# webpack-study
+# fe-study
