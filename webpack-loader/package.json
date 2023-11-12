@@ -1,10 +1,11 @@
 {
-  "name": "loader",
+  "name": "webpack-loader",
   "scripts": {
-    "build": "webpack"
+    "build": "pnpm exec webpack"
   },
   "devDependencies": {
-    "webpack": "workspace:*",
-    "webpack-cli": "workspace:*"
-  }
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {}
 }

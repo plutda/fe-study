@@ -1,14 +1,11 @@
 {
-  "name": "webpack-study",
+  "name": "fe-study",
   "description": "",
   "scripts": {
     "loader:build": "pnpm -r --filter ./webpack-loader run build"
   },
   "keywords": [],
-  "devDependencies": {
-    "webpack": "^5.89.0",
-    "webpack-cli": "^5.1.4"
-  },
+  "devDependencies": {},
   "author": "pluto",
   "license": "ISC"
 }
